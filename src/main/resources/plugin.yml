@@ -1,0 +1,5 @@
+name: WitherTestPlugin
+main: com.lol768.WitherTestPlugin
+version: ${project.version}
+author: lol768
+description: WitherTestPlugin
